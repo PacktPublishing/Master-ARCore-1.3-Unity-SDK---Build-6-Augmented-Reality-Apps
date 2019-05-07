@@ -1,0 +1,13 @@
+To get started with this course you will require the firstly:
+
+A supported ARCore Device: You can find the full list of devices here: https://developers.google.com/ar/discover/
+
+You will also need a few Unity Assets which forms part of the training material of this course. Only one is required for this course, the rest is optional. They will be referenced during the course. 
+Unity Assets
+Drone Asset 	 $    25.00 	Required
+Solar Systems Asset 	 $       2.00 	Optional
+Sun Asset 	 $       5.00 	Optional
+Portal 	 $    10.00 	Optional
+Smoke 	 $       3.00 	Optional
+  	 
+Total 	 $    45.00 	  
